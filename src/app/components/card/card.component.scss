@@ -1,0 +1,35 @@
+.linha-centralizada{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.espaco-lateral{
+    padding: 0 20px 0 20px;
+}
+.coluna-centralizada{
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+}
+
+.negrito{
+    font-weight: bold;
+}
+
+.fonte-pequena{
+    font-size: small;
+}
+
+#photo{
+    width: 100px;
+}
+
+.icon-size{
+    font-size: 20px;
+    padding-right: 5px;
+}
+.pontuacao{
+    font-size: small;
+    padding-left: 5px;
+}
